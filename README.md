@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Leka!
 
-<!--
-**leechan262008-cell/leechan262008-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently studying **Artificial Intelligence and Data Science**.  
+💡 I’m passionate about building intelligent systems that solve real-world problems using **Machine Learning**, **Data Analytics**, and **Python**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 I’m learning **AI, ML, Deep Learning, and Data Visualization**
+- 🧩 I enjoy working on projects involving **Predictive Models**, **Data Cleaning**, and **Automation**
+- 💬 Ask me about **Python, C programming, and AI tools**
+- ⚙️ I’m exploring **TensorFlow**, **scikit-learn**, and **Pandas**
+- 🎯 Goal: To become a **Data Scientist / AI Engineer**
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, C, SQL  
+- **Tools:** Jupyter Notebook, VS Code, GitHub  
+- **Libraries:** NumPy, Pandas, Matplotlib, scikit-learn  
+- **AI/ML:** TensorFlow, OpenCV, Keras  
+
+---
+
+## 📈 Current Focus
+- Developing mini-projects in **AI and Data Science**  
+- Learning **Machine Learning algorithms** and **data preprocessing techniques**  
+- Working on **college projects** related to AI applications  
+
+---
+
+## 📫 Connect With Me
+- 💼 GitHub: https://github.com/leechan262008-cell 
+- 📧 Email: leechan262008@gmail.com 
+- 🌐 LinkedIn: https://www.linkedin.com/in/leka-m-864b28381
